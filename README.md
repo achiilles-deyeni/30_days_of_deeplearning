@@ -8,3 +8,7 @@ I went through the basics of pytorch from installation, creating tensors from sc
 Moved to learning about how to get information from tensors such as datatype, device and shape.
 I also went to the basic arithmetic operations carried out on tensors with focus on matrix multiplication since most deep learning models rely on matrix multiplication.
 Went through tensor indexing.
+
+## Day 2: PyTorch workflow
+
+Getting to know the workflow of PyTorch
