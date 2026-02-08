@@ -12,3 +12,5 @@ Went through tensor indexing.
 ## Day 2: PyTorch workflow
 
 Getting to know the workflow of PyTorch
+
+## Day 3 : Classification using PyTorch
